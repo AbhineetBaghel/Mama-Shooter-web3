@@ -7,7 +7,7 @@ function MamaShooter() {
       <img src={mamaShooterImage} alt="Mama Shooter" style={{ width: '60%', maxWidth: '800px', marginBottom: '20px' }} />
       <h1>mama-shooter</h1>
       <p>Check out the game here:</p>
-      <a href="https://immortalll.itch.io/mama-shooter-web3" target="_blank">mama-shooter-web3</a>
+      <a href="https://immortalll.itch.io/mama-shooterxpolygon" target="_blank">mama-shooter-web3</a>
     </div>
   );
 }
